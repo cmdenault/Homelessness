@@ -5,8 +5,8 @@ Investigation into homelessness in the US, specifically how community level mark
 
 ## Data
 
-Data comes from the HUD 
-(See the data section of this [report](https://www.huduser.gov/portal/sites/default/files/pdf/Market-Predictors-of-Homelessness.pdf))
+Data comes from the HUD's Market Indicators of Homelessness Report.
+<br> (See the data section of this [report](https://www.huduser.gov/portal/sites/default/files/pdf/Market-Predictors-of-Homelessness.pdf))
 
 05b_analysis_file_update.csv
 
