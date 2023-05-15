@@ -21,5 +21,5 @@ To prepare the raw data for analysis, the following steps were taken:
   - removed missing data
   - derived new, relevant variables as new columns
 
-The file used to prepare the data can be found as:
-The clean data can be found as: 
+The file used to prepare the data can be found as: homeless_data_prep.ipyn
+The clean data can be found as: homeless_clean.csv
