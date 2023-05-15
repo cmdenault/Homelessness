@@ -10,4 +10,16 @@ The dependent variables refer to the total number of homeless people per 10,000 
 
 <br> (See the data section of this [report](https://www.huduser.gov/portal/sites/default/files/pdf/Market-Predictors-of-Homelessness.pdf))
 
+~
 
+## Data Preparation 
+
+To prepare the raw data for analysis, the following steps were taken:
+  - explored the raw data (general shape, columns, etc)
+  - selected relevent subsets of the data
+  - renamed columns
+  - removed missing data
+  - derived new, relevant variables as new columns
+
+The file used to prepare the data can be found as:
+The clean data can be found as: 
