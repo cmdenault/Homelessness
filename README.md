@@ -23,3 +23,17 @@ To prepare the raw data for analysis, the following steps were taken:
 
 The file used to prepare the data can be found as: homeless_data_prep.ipyn
 The clean data can be found as: homeless_clean.csv
+
+~
+
+## Data Analysis 
+
+To conduct the analysis, the following steps were taken:
+  - created test and train splits
+  - scaled predictor data
+  - created a OLS model
+  - used kfold cross validation testing on Ridge, Lasso, and XGBoost models
+  - use root mean square error to evaluate effectiveness of a model
+
+The file used to analyze the data can be found as: homeless_data_analysis.ipyn
+The presentation to communicate the results can be found as: 
