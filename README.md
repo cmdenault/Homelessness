@@ -37,3 +37,15 @@ To conduct the analysis, the following steps were taken:
 
 The file used to analyze the data can be found as: homeless_data_analysis.ipyn
 The presentation to communicate the results can be found as: homelessness_presi.pdf
+
+~
+
+## Author 
+
+Cassidy Denault, Computer Science Major, Data Science Minor in Seattle, WA.
+
+~
+
+## License
+
+Abides by the MIT License
