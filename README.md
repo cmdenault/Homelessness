@@ -36,4 +36,4 @@ To conduct the analysis, the following steps were taken:
   - use root mean square error to evaluate effectiveness of a model
 
 The file used to analyze the data can be found as: homeless_data_analysis.ipyn
-The presentation to communicate the results can be found as: 
+The presentation to communicate the results can be found as: homelessness_presi.pdf
